@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am just a dude, tryin' to do my best.
 
 <!--
 **dmpayton/dmpayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
