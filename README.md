@@ -1,5 +1,14 @@
 ### I am just a dude, tryin' to do my best.
 
+I write code (usually in Python), build web apps (usually with Django), and hack on electronics/IoT projects (usually with MicroPython).
+
+- **[Ordrslip](http://ordrslip.com) by [Bitwise Industries](http://bitwiseindustries.com)**, Lead Developer
+- **[Root Access](http://rootaccess.org)**, Founder / Executive Director
+- **[Fresno Python](http://fresnopython.com/)**, Founder / Organizer
+
+I [tweet](https://twitter.com/dmpayton) sometimes, though I'm not sure why.
+
+
 <!--
 **dmpayton/dmpayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
