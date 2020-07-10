@@ -1,6 +1,4 @@
-### I am just a dude, tryin' to do my best.
-
-I write code (usually in Python), build web apps (usually with Django), and hack on electronics/IoT projects (usually with MicroPython).
+### I am just a dude, tryin' to do my best. he/him.
 
 - **[Ordrslip](http://ordrslip.com) by [Bitwise Industries](http://bitwiseindustries.com)**, Lead Developer
 - **[Root Access](http://rootaccess.org)**, Founder / Executive Director
@@ -8,6 +6,9 @@ I write code (usually in Python), build web apps (usually with Django), and hack
 
 I [tweet](https://twitter.com/dmpayton) sometimes, though I'm not sure why.
 
+Black Lives Matter. ✊🏽✊🏾✊🏿
+
+Wear a mask. 😷
 
 <!--
 **dmpayton/dmpayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
