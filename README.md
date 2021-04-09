@@ -1,6 +1,6 @@
 ### I am just a dude, tryin' to do my best. he/him.
 
-- **[Ordrslip](http://ordrslip.com)** (by [Bitwise Industries](http://bitwiseindustries.com)), Lead Developer
+- **[Ordrslip](http://ordrslip.com)** (by [Bitwise Industries](http://bitwiseindustries.com)), Chief Architect
 - **[Root Access](http://rootaccess.org)** (a hackerspace), Founder / Executive Director
 - **[Fresno Python](http://fresnopython.com/)** (a meetup), Founder / Organizer
 
