@@ -4,7 +4,7 @@
 - 🤖 **[Root Access](https://rootaccess.org)**, Founder / Executive Director
 - 🐍 **[Fresno Python](https://fresnopython.com/)**, Founder / Lead Organizer
 
-I <a rel="me" href="https://social.rootaccess.org/@dmpayton">toot</a> and [tweet](https://twitter.com/dmpayton) sometimes, though I'm not sure why.
+I can also be found on <a rel="me" href="https://hachyderm.io/@dmpayton">Mastodon</a> and [Bluesky](https://bsky.app/profile/dmpayton.bsky.social).
 
 Black Lives Matter. ✊🏽✊🏾✊🏿
 
