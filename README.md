@@ -1,5 +1,7 @@
 ### I am just a dude, tryin' to do my best. he/him.
 
+---
+
 💪🏼 **What I do:**
 
 - 🫁 [SJVAir](https://www.sjvair.com) Director @ **[Central California Asthma Collaborative](https://cencalasthma.org/)**, a Climate Equity and Environmental Justice nonprofit.
