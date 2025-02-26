@@ -4,7 +4,7 @@
 
 💪🏼 **What I do:**
 
-- 🫁 [SJVAir](https://www.sjvair.com) Director @ **[Central California Asthma Collaborative](https://cencalasthma.org/)**, a Climate Equity and Environmental Justice nonprofit.
+- 🫁 [SJVAir](https://www.sjvair.com) Director @ **[Central California Asthma Collaborative](https://cencalasthma.org/)**, a Health and Environmental Justice nonprofit.
 - 🤖 Founder / Executive Director @ **[Root Access](https://rootaccess.org)**, a community hackerspace and makerspace.
 
 ---
