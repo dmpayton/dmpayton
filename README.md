@@ -13,7 +13,7 @@
 🤓 **About me:**
 
 - 🌟 I'm into 💻 🐍 🐧 🤖 🛠️ ⚾ 🎸 🔭
-- 🚹 My pronouns are **he/him** (but they/them is fine too).
+- 🚹 My pronouns are **he/him** (but they/them is also fine).
 - 🏡 I live in **Fresno, CA**. It's not without it's problems, but I think it's pretty ✨ **rad** ✨.
 - 💬 Connect with me on **<a rel="me" href="https://hachyderm.io/@dmpayton">Mastodon</a>**, **[Bluesky](https://bsky.app/profile/dmpayton.com)**, or **[LinkedIn](https://www.linkedin.com/in/dmpayton/)**.
 - 🌎 I am mostly active in the **Python**, **Maker**, and **Environmental Justice** communities.
